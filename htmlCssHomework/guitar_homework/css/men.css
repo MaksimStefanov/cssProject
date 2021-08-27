@@ -1,0 +1,72 @@
+#zaglavie1{
+ background-color: #000000FF;
+ color:#FAC322FF;
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font: 16px normal black  ;
+    }
+body{
+    background-color: #FAC322FF;
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font: 18px normal black  ;
+    
+}
+  #text{
+  width: 368px;
+  	height: 45px;
+  	padding: 5px;
+  	}
+#zaglavie{
+        background-color: #FAC322FF;
+        border: 3px solid ;
+        box-shadow: black 10px 10px 30px;
+        text-align: center;
+        padding: 25px;
+    }
+ h2{
+        font-size: 25px;
+        font-weight: bold;
+        font-family: cursive;
+    }
+ h1{
+        font-size:45px;
+        font-weight: bolder;
+    
+    }
+#top1 {
+ margin-left: 1%;
+ font: 18px normal black  ;
+ padding: 25px;
+ }
+
+#top {
+ margin-left: 50%;
+ font: 18px normal black  ;
+ padding: 25px;
+
+}
+#podpiss{
+    font-size: 10px;
+    margin-top: 20px;
+}
+
+
+button{
+               background-color: #FAC322FF;
+               color: #000000FF ;
+               border: wheat 3px solid ;
+               box-shadow: black 10px 10px 30px;
+               text-align: center;
+               font-size:20px;
+
+
+}
